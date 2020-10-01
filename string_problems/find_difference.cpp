@@ -23,7 +23,7 @@ char find_difference(const std::string& s, const std::string& t)
 
 int main()
 {
-    std::string str1{"hello"};
+    std::string str1{"hell"};
     std::string str2{"ollleh"};
     std::cout << "String 1: " << str1 << std::endl;
     std::cout << "String 2: " << str2 << std::endl;
